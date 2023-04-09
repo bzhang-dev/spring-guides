@@ -1,3 +1,6 @@
-**/target
 .git_gitlab
 .git_github
+**/target
+**/.settings
+**/.classpath
+**/.project
