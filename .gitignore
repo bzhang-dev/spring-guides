@@ -1,5 +1,6 @@
 .git_gitlab
 .git_github
+.vscode
 **/target
 **/.settings
 **/.classpath
